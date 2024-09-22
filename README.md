@@ -1,11 +1,13 @@
 <!-- @format -->
 
-# 💫 About Me: " Hello, world ! "
+# 💫 About Me:
+
+<br>✋ " Hello, world ! "<br><br>I'm Front-End Developer
 
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/B_ali.b)
-[![@awesometelegram](https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-%40awesometelegram-blue.svg)](https://t.me/B_Ali_B)
+[![@B_Ali_B](https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-%40B__Ali__B-blue.svg)](https://t.me/B_Ali_B)
 
 # 💻 Tech Stack:
 
