@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/B_ali.b)
-[![ُTelegram](https://img.icons8.com/?size=256&id=63306&format=png?logo=telegram&logoColor=white)](https://t.me/B_Ali_B)
+[![@awesometelegram](https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-%40awesometelegram-blue.svg)](https://t.me/B_Ali_B)
 
 # 💻 Tech Stack:
 
